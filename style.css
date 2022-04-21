@@ -8,6 +8,7 @@ div{margin-top:25px; margin-bottom: 25px; margin-left: 60px; margin-right: 60px;
 #divMedio{display: flex;}
 
 #cardTitulo{text-align: left;}
-#carrdTexto{text-align: justify;}
+#cardTexto{text-align: justify;}
 #tarjeta{background-color: antiquewhite; border-style: groove;}
 #imagen{border-style: solid;}
+#filaPromedio{text-align: left;}

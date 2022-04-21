@@ -23,7 +23,7 @@ function addSeries() {
 function promedioTemporadas() {
     var trPromedio = document.createElement("tr");
     try {
-        trPromedio.innerHTML = "<tr><th colspan=4>Temporadas promedio: ".concat((sumaTemporadas / numeroSeries).toPrecision(2), "</th></tr>");
+        trPromedio.innerHTML = "<tr><th colspan=4 id=\"filaPromedio\"\">Temporadas promedio: ".concat((sumaTemporadas / numeroSeries).toPrecision(1), "</th></tr>");
     }
     catch (error) {
         console.log("Error verifique la información");
