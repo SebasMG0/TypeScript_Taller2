@@ -1,0 +1,6 @@
+div{margin-top:25px; margin-bottom: 25px; margin-left: 60px; margin-right: 60px;}
+#encabezado{background-color: coral; text-align: center;}
+#encabezadoTabla{background-color: blanchedalmond;}
+
+#encabezado{display: flex;}
+#tvIcon{height: 100px; width: 95px;}
