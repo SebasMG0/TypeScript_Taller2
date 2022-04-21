@@ -4,3 +4,10 @@ div{margin-top:25px; margin-bottom: 25px; margin-left: 60px; margin-right: 60px;
 
 #encabezado{display: flex;}
 #tvIcon{height: 100px; width: 95px;}
+
+#divMedio{display: flex;}
+
+#cardTitulo{text-align: left;}
+#carrdTexto{text-align: justify;}
+#tarjeta{background-color: antiquewhite; border-style: groove;}
+#imagen{border-style: solid;}

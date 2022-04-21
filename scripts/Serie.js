@@ -4,6 +4,9 @@ var Serie = /** @class */ (function () {
         this.nombre = nombre;
         this.canal = canal;
         this.temporadas = temporadas;
+        this.descripcion = descripcion;
+        this.linkCanal = linkCanal;
+        this.portada = portada;
     }
     return Serie;
 }());
